@@ -44,7 +44,7 @@
 	$message = $_POST['message'];
 	$from = $email;
 	$to = 'arvid@matteappen.com';  // please change this email id
-	$subject = 'Contact Form : Titan - The best downloaded template ever';
+	$subject = 'Webinarieanmälan';
 
 	$body = "From: $name\n E-Mail: $email\n Message:\n $message";
 
